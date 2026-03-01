@@ -1,0 +1,2 @@
+A simple and modern scrollable UI component built using HTML and CSS. The project demonstrates custom styling, smooth layout structure, and a clean dark theme design inspired by modern web interfaces. It focuses on improving user experience with styled scroll sections and responsive layout techniques.
+<img width="1920" height="890" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/e39497d3-fb6c-433d-ac57-a42423d551e5" />
